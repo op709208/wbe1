@@ -1,0 +1,32 @@
+html{
+    background: #EEEEEE;
+}
+.center{
+    text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+  width: auto;
+  height: 200px;
+} 
+#box1{
+    border: 10px solid #222831;
+    background: #222831;
+    color: #EEEEEE;
+    font-family: "Bitcount Grid Double", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "slnt" 0,"CRSV" 0.5,"ELSH" 0,"ELXP" 0;
+}
+#box2{
+    background: #393E46;
+    padding-bottom: 20px;
+}
+#box3{
+    background: #00ADB5;
+    border: 10px solid #00ADB5;
+    padding-top: 200px;
+    margin-top: 20px;
+}
